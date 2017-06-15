@@ -1,0 +1,309 @@
+[
+	{ 
+		"messageType": 1,
+		"productName" : "apple",
+		"productPrice" : 0.1 
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "orange",
+		"productPrice" : 0.2 
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "strawberries",
+		"productPrice" : 1.2 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 20 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 32 
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "milk",
+		"productPrice" : 1 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "milk",
+		"productPrice" : 1,
+		"numberOfProducts" : 52
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "chocolate",
+		"productPrice" : 0.8 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "chocolate",
+		"productPrice" : 0.8,
+		"numberOfProducts" : 10 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 35 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 25 
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "corn flakes",
+		"productPrice" : 2.2 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "corn flakes",
+		"productPrice" : 2.2,
+		"numberOfProducts" : 23 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 15 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 15 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "milk",
+		"productPrice" : 1,
+		"numberOfProducts" : 9
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "milk",
+		"productPrice" : 0.1,
+		"operationOnProducts" : "subtract"
+	},
+	{ 
+		"messageType": 1,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5,
+		"numberOfProducts" : 12
+	},
+	{ 
+		"messageType": 22,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5,
+		"numberOfProducts" : 19
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5,
+		"numberOfProducts" : 19
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "apricot jam",
+		"productPrice" : 0.5,
+		"operationOnProducts" : "subtract"
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 17 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "chocolate",
+		"productPrice" : 0.8,
+		"numberOfProducts" : 6 
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "chocolate",
+		"productPrice" : 0.2,
+		"operationOnProducts" : "sum"
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "chocolate",
+		"productPrice" : 0.2,
+		"operationOnProducts" : "add"
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "chocolate",
+		"productPrice" : 0.8,
+		"numberOfProducts" : 12 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 27 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 3 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 5 
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "apple",
+		"productPrice" : 0.05,
+		"operationOnProducts" : "add"
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "corn flakes",
+		"productPrice" : 2.2,
+		"numberOfProducts" : 7 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "corn flakes",
+		"productPrice" : 2.2,
+		"numberOfProducts" : 1 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "milk",
+		"productPrice" : 1,
+		"numberOfProducts" : 3
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5,
+		"numberOfProducts" : 3
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "corn flakes",
+		"productPrice" : 2.2,
+		"numberOfProducts" : 1 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "milk",
+		"productPrice" : 1,
+		"numberOfProducts" : 3
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apricot jam",
+		"productPrice" : 2.5,
+		"numberOfProducts" : 3
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 3 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 5 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "chocolate",
+		"productPrice" : 0.8,
+		"numberOfProducts" : 2 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 7 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 3 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 5 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 5 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "chocolate",
+		"productPrice" : 0.8,
+		"numberOfProducts" : 2 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 7 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 3 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "apple",
+		"productPrice" : 0.1,
+		"numberOfProducts" : 5 
+	},
+	{ 
+		"messageType": 3,
+		"productName" : "apple",
+		"productPrice" : 0.05,
+		"operationOnProducts" : "add"
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "strawberries",
+		"productPrice" : 1.2,
+		"numberOfProducts" : 7 
+	},
+	{ 
+		"messageType": 2,
+		"productName" : "orange",
+		"productPrice" : 0.2,
+		"numberOfProducts" : 3 
+	}
+	
+
+]
